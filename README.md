@@ -14,19 +14,19 @@ Java Test File - HomeLoanRepaymentCal.java
 
 Download a Framework
 --------------
-* QuotableApi - https://github.com/sreekarsunku/quotableApi
+* test_assessment - https://github.com/sreekarsunku/test_assessment
 
 Framework Architecture
 --------------
 	     fdp.pub
 		|
 		|_src/main/java
-                | |_com.project.cba.fdp.pub
+                |       |_com.project.cba.fdp.pub
                 |	|	|_HomeLoanCal.java
 		|_src/test/java
 		|	|_com.project.cba.fdp.pub
 		|	|	|_HomeLoanRepaymentCal.java
-		|	| |_ParseTestData.java
+		|	|       |_ParseTestData.java
 		|	|	|_q1test_data_0.csv
-		|	| |_q1test_data_1.csv
+		|	|       |_q1test_data_1.csv
 		|	|	|_q1test_data.txt
