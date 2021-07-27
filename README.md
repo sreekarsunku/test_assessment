@@ -1,5 +1,4 @@
 # test_assessment
-=================
 
 Q1 
 
@@ -19,11 +18,11 @@ Download a Framework
 
 Framework Architecture
 --------------
-	fdp.pub
+	     fdp.pub
 		|
 		|_src/main/java
-    | |_com.project.cba.fdp.pub
-    |	|	|_HomeLoanCal.java
+                | |_com.project.cba.fdp.pub
+                |	|	|_HomeLoanCal.java
 		|_src/test/java
 		|	|_com.project.cba.fdp.pub
 		|	|	|_HomeLoanRepaymentCal.java
